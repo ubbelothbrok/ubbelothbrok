@@ -10,6 +10,31 @@
 
 
 ---
+
+<h3 align="center">🤝 Connect with Me</h3>
+<div align="center">
+  <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+  </a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
+  </a>
+  <a href="https://instagram.com/your-instagram-handle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
+  </a>
+  <a href="https://youtube.com/c/your-youtube-channel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img height="200" src="https://64.media.tumblr.com/8d120a0bf8545c37ff556082a0c17e6b/tumblr_nmf7psMEcZ1u36vrso2_500.gifv" alt="coding gif" />
+</div>
+
+---
+
 <h3 align="center">🧐 About Me</h3>
 <div align="center">
 
@@ -18,20 +43,6 @@
   <h4 align="center">- 👯 I’m looking to collaborate on Open Source Projects</h4>
   <h4 align="center">- 💬 Ask me about React, Node.js, and Python</h4>
   - 📫 How to reach me: adityavishwakarma299@gmail.com
-
-</div>
-
-
----
-
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=ubbelothbrok&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ubbelothbrok&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ubbelothbrok&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -94,26 +105,15 @@
 </div>
 
 ---
-<h3 align="center">🤝 Connect with Me</h3>
-<div align="center">
-  <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
-  </a>
-  <a href="https://instagram.com/your-instagram-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
-  </a>
-  <a href="https://youtube.com/c/your-youtube-channel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo" />
-  </a>
-</div>
 
-<br />
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/8d120a0bf8545c37ff556082a0c17e6b/tumblr_nmf7psMEcZ1u36vrso2_500.gifv" alt="coding gif" />
+
+![](https://github-readme-stats.vercel.app/api?username=ubbelothbrok&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ubbelothbrok&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ubbelothbrok&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 
