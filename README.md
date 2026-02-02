@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Vishwakarma</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate growing Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ubbelothbrok&label=Profile%20Views&color=0e75b6&style=flat" alt="ubbelothbrok" />
@@ -10,34 +10,34 @@
 
 
 ---
-
-### 🧐 About Me
-
-- 🔭 I’m currently working on **Full Stack Web Development**
-- 🌱 I’m currently learning **Advanced Backend Architecture & Cloud Services**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, and Python**
-- 📫 How to reach me: **adityavishwakarma299@gmail.com**
-
-
-
-<!-- ### 📊 GitHub Stats
-
+<h3 align="center">🧐 About Me</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubbelothbrok&show_icons=true&theme=radical" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubbelothbrok&layout=compact&theme=radical" height="180" alt="languages graph"  />
+
+  <h4 align="center">- 🔭 I’m currently working on Full Stack Web Development</h4>
+  <h4 align="center">- 🌱 I’m currently learning Advanced Backend Architecture & Cloud Services</h4>
+  <h4 align="center">- 👯 I’m looking to collaborate on Open Source Projects</h4>
+  <h4 align="center">- 💬 Ask me about React, Node.js, and Python</h4>
+  - 📫 How to reach me: adityavishwakarma299@gmail.com
+
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubbelothbrok&theme=radical" alt="streak graph" />
-</div> -->
 
 ---
 
-### 💻 Tech Stack
 
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=ubbelothbrok&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ubbelothbrok&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ubbelothbrok&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+<h3 align="center">💻 Tech Stack</h3>
 <div align="center">
 
 #### Languages
@@ -94,9 +94,7 @@
 </div>
 
 ---
-
-### 🤝 Connect with Me
-
+<h3 align="center">🤝 Connect with Me</h3>
 <div align="center">
   <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
