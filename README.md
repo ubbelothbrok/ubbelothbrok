@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">🤝 Connect with Me</h3>
+<h2 align="center">🤝 Connect with Me</h2>
 <div align="center">
   <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
@@ -35,7 +35,7 @@
 
 ---
 
-<h3 align="center">🧐 About Me</h3>
+<h2 align="center">🧐 About Me</h2>
 <div align="center">
 
   <h4 align="center">- 🔭 I’m currently working on Full Stack Web Development</h4>
@@ -46,9 +46,17 @@
 
 </div>
 
+
+---
+<h2 align="center">👾Contribution Games</h2>C
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 ---
 
-<h3 align="center">💻 Tech Stack</h3>
+<h2 align="center">💻 Tech Stack</h2>
 <div align="center">
 
 #### Languages
@@ -104,24 +112,23 @@
 
 </div>
 
----
+<!--
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
-</picture>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
+-->
+<!--
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=ubbelothbrok&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ubbelothbrok&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ubbelothbrok&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div> 
+-->
+
+
+ ---
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 </div>
