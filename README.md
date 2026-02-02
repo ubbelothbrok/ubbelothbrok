@@ -68,3 +68,38 @@
 </div>
 
 
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+</div>
+
+###
+
+<img align="right" height="150" src="https://64.media.tumblr.com/cd76ec1be849c339a406aa34ea524433/c61bcb23b2eb65ca-05/s540x810/cbd7ba66d5eea901fb7eae08cc17bf8eb2b14935.gifv"  />
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ubbelothbrok/ubbelothbrok/output/snake.svg" alt="Snake animation" />
+
+###
+
+
