@@ -1,5 +1,5 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Aditya Vishwakarma</h1>
 
-<h1 align="center">Hi 👋, I'm Aditya Vishwakarma</h1>
 <h3 align="center">A passionate growing Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -105,6 +105,16 @@
 </div>
 
 ---
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
+</div>
+
+---
 
 <h3 align="center">📊 GitHub Stats</h3>
 
@@ -115,6 +125,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ubbelothbrok&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
-
-
