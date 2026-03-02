@@ -13,16 +13,16 @@
 
 <h2 align="center">🤝 Connect with Me</h2>
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+  <a href="https://www.linkedin.com/in/adityavishwakarma299/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
   <a href="https://discord.com/users/your-discord-id" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
   </a>
-  <a href="https://instagram.com/your-instagram-handle" target="_blank">
+  <a href="https://www.instagram.com/aditya.vishu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
-  <a href="https://youtube.com/c/your-youtube-channel" target="_blank">
+  <a href="https://www.youtube.com/channel/UCzRl7I_m7AzcCFHR5H6YZUg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo" />
   </a>
 </div>
