@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Aditya Vishwakarma</h1>
 
-<h3 align="center">A passionate growing Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate growing Full Stack Developer and Software Engineer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ubbelothbrok&label=Profile%20Views&color=0e75b6&style=flat" alt="ubbelothbrok" />
